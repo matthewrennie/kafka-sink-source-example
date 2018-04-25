@@ -9,7 +9,7 @@ Running the example:
 4. cd /code/kafka-sink-source-example
 5. sbt "runMain com.jemstep.pattern.producer.PlainSinkProducerMain"
 
-> This will produce 10 messages and exist
+> This will produce 10 messages and exit
 
 6. sbt "runMain com.jemstep.pattern.consumer.PlainSourceConsumerMain"
 
